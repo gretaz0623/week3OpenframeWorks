@@ -2,19 +2,27 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    myBall.setup();
+    myBall1.setup();
+    myBall2.setup();
+    myBall3.setup();
+    
+  
 
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
-    myBall.update();
+    myBall1.update();
+    myBall2.update();
+    myBall3.update();
 
 }
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    myBall.draw();
+    myBall1.draw();
+    myBall2.draw();
+    myBall3.draw();
 
 }
 

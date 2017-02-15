@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2431AF5E0285D9955234C74B27F3E53F26EA0330",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2431AF5E0285D9955234C74B27F3E53F26EA0330" : 9223372036854775807,
+    "0B13A48CAB370B82EDE6956A4707154A3717E15C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3104D989-6D96-47B7-9BC8-C9CDD6FDE64A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2431AF5E0285D9955234C74B27F3E53F26EA0330" : "Week4%20OpenframeWorks\/",
+    "0B13A48CAB370B82EDE6956A4707154A3717E15C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ball",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ball\/ball.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gretaz0623\/openframeworks.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B13A48CAB370B82EDE6956A4707154A3717E15C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gretaz0623\/week4OpenframeWorks.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2431AF5E0285D9955234C74B27F3E53F26EA0330"
+    }
+  ]
+}
